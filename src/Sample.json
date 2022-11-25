@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Tesla to accept dogecoin as payment for merchandise, says Musk - Reuters",
+    "description": "Tesla Inc <a to=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> chief Elon Musk said on Tuesday the electric carmaker will accept dogecoin as payment for merchandise on a test basis, sending the meme-based cryptocurrency up 24%.",
+    "url": "https://www.reuters.com/markets/us/musk-says-tesla-will-accept-dogecoin-merchandise-2021-12-14/",
+    "urlToImage": "https://www.reuters.com/resizer/MX9nr79xLNJYZbHsODEXKP-ZXCE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3BEPKBV2KBNH3FCFTXZ3EHYWYQ.jpg",
+    "publishedAt": "2021-12-14T12:24:00Z",
+    "content": "Dec 14 (Reuters) - Tesla Inc (TSLA.O) chief Elon Musk said on Tuesday the electric carmaker will accept dogecoin as payment for merchandise on a test basis, sending the meme-based cryptocurrency up 2… [+1875 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Wall Street Journal",
+    "title": "Stock futures slip ahead of Fed meeting - Fox Business",
+    "description": "Investors are watching to see if the uptick in Covid-19 cases and the new Omicron variant changes how quickly the Fed will wind down easy-money policies that have helped fuel this year’s stock rally when it concludes its meeting Wednesday.",
+    "url": "https://www.foxbusiness.com/markets/stock-futures-gain-ahead-fed-meeting",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2018/02/0/0/nyse-trader-dow-23k.jpg?ve=1&tl=1",
+    "publishedAt": "2021-12-14T12:19:36Z",
+    "content": "U.S. stock futures edged lower ahead of the Federal Reserve’s two-day policy meeting, which is expected to end with the central bank signaling a faster wind-down of its bond-buying program.\r\nFutures … [+1193 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Carl Zimmer, Rebecca Robbins",
+    "title": "Pfizer Says Its Covid Pill, Paxlovid, Will Protect Against Severe Disease - The New York Times",
+    "description": "The company said the pill, Paxlovid, reduced the risk of hospitalization and death by 89 percent if given within three days of the onset of symptoms.",
+    "url": "https://www.nytimes.com/2021/12/14/health/pfizer-covid-pill-paxlovid.html",
+    "urlToImage": "https://static01.nyt.com/images/2021/12/03/14virus-briefing-Pfizer/14virus-briefing-Pfizer-facebookJumbo-v2.jpg",
+    "publishedAt": "2021-12-14T11:45:03Z",
+    "content": "Mikael Dolsten, the chief scientific officer of Pfizer, was exuberant about the results after having overseen the development of the drug since the spring of 2020, with more than 200 company scientis… [+2361 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Charles Riley, CNN Business",
+    "title": "Europe's biggest economy is on the brink of a winter recession - CNN",
+    "description": "Germany is teetering on the brink of recession this winter as supply bottlenecks and a wave of new coronavirus cases hobble the economy.",
+    "url": "https://www.cnn.com/2021/12/14/economy/germany-recession-omicron/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211214101650-germany-economy-recession-file-090220-super-tease.jpg",
+    "publishedAt": "2021-12-14T11:01:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "David Hodari",
+    "title": "Heating Your Home Is Expensive and Carbon Heavy. Will Heat Pumps Help? - The Wall Street Journal",
+    "description": "Devices that use warmth from ground or air to heat homes could help cut household emissions",
+    "url": "https://www.wsj.com/articles/heating-your-home-is-expensive-and-carbon-heavy-will-heat-pumps-help-11639479602",
+    "urlToImage": "https://images.wsj.net/im-445888/social",
+    "publishedAt": "2021-12-14T11:00:00Z",
+    "content": "As consumers and governments aim to reduce their carbon footprints, heat pumps are growing in popularity as a way to cut emissions associated with the way we heat our homes.Heating air and water for … [+7178 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Eduardo Porter",
+    "title": "How Inflation Concerns May Affect Prices - The New York Times",
+    "description": "Age, region, education and income all influence what people think consumer prices will be a few years from now. And that creates a policy puzzle.",
+    "url": "https://www.nytimes.com/2021/12/14/business/economy/inflation-age-region-education-income.html",
+    "urlToImage": "https://static01.nyt.com/images/2021/12/10/business/inflation-attitudes/inflation-attitudes-facebookJumbo-v8.png",
+    "publishedAt": "2021-12-14T10:00:15Z",
+    "content": "People who experienced the Great Inflation are more likely to fear high inflation around the corner than the young, who have lived mostly in an era in which inflation has rarely exceeded 2 percent. T… [+2661 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Asian stocks dip as Omicron spreads, Fed decision looms - Reuters",
+    "description": "Asian stocks and oil prices slipped on Tuesday as the spread of the Omicron coronavirus variant rattled investors who were already on edge ahead of a slew of central bank decisions this week, including a key Federal Reserve meeting.",
+    "url": "https://www.reuters.com/markets/europe/global-markets-wrapup-1-2021-12-14/",
+    "urlToImage": "https://www.reuters.com/resizer/NbhJ1nsi925XCrkj2JtUbxUOGe4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7XVBKV4LQVLZ7ED5Z4MEDAMWSM.jpg",
+    "publishedAt": "2021-12-14T09:29:00Z",
+    "content": "SYDNEY, Dec 14 (Reuters) - Asian stocks and oil prices slipped on Tuesday as the spread of the Omicron coronavirus variant rattled investors who were already on edge ahead of a slew of central bank d… [+3598 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Saheli Roy Choudhury",
+    "title": "Toyota to invest $35 billion into battery-powered EVs and roll out 30 models by 2030 - CNBC",
+    "description": "Toyota will increase investments into battery technologies by 500 billion yen ($4.4 billion) to 2 trillion yen.",
+    "url": "https://www.cnbc.com/2021/12/14/toyota-ceo-announces-automakers-battery-ev-plans.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106988833-1639463514573-gettyimages-1236289761-JAPAN_TOYOTA.jpeg?v=1639463113",
+    "publishedAt": "2021-12-14T09:06:56Z",
+    "content": "Toyota, one of the world's largest automakers, is planning to invest 4 trillion yen ($35 billion) to build a full lineup of 30 battery-powered electric vehicles by 2030.\r\nIt aims to also increase glo… [+2644 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Netflix slashes India prices in battle with Disney, Amazon - Reuters",
+    "description": "Netflix <a to=\"https://www.reuters.com/companies/NFLX.O\" target=\"_blank\">(NFLX.O)</a> slashed on Tuesday the prices of its streaming services in India, for the first time since launching five years ago in the South Asian nation, as it moves to better compet…",
+    "url": "https://www.reuters.com/business/media-telecom/netflix-slashes-india-prices-battle-with-disney-amazon-2021-12-14/",
+    "urlToImage": "https://www.reuters.com/resizer/Vq_lUwfdKlAxslh3iqT2yALVDZ8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AWLLF2H22BPP3LDQ35K2YCGQ2I.jpg",
+    "publishedAt": "2021-12-14T08:24:00Z",
+    "content": "MUMBAI, Dec 14 (Reuters) - Netflix (NFLX.O) slashed on Tuesday the prices of its streaming services in India, for the first time since launching five years ago in the South Asian nation, as it moves … [+2404 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Laura He, CNN Business",
+    "title": "China Mobile gets the green light to list in Shanghai after it was kicked out of New York - CNN",
+    "description": "China's largest telecom company has received the green light to raise billions of dollars for its 5G ambitions by listing shares in Shanghai, months after it was kicked out of New York.",
+    "url": "https://www.cnn.com/2021/12/14/investing/china-mobile-shanghai-listing-intl-hnk/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211214005316-china-mobile-file-09282021-super-tease.jpg",
+    "publishedAt": "2021-12-14T07:19:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Kenneth Garger",
+    "title": "Construction on new $9.5 billion JFK terminal slated to begin in 2022 - New York Post ",
+    "description": "Gov. Kathy Hochul on Monday announced a $9.5 billion new plan for an international terminal at JFK Airport after the project was halted because of the pandemic.",
+    "url": "https://nypost.com/2021/12/14/new-9-5-billion-jfk-terminal-construction-slated-to-begin-in-2022/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/12/jfk-project-index.jpg?quality=90&strip=all&w=1024",
+    "publishedAt": "2021-12-14T05:59:00Z",
+    "content": "Gov. Kathy Hochul on Monday announced a $9.5 billion new plan for an international terminal at JFK Airport after the project was halted because of the pandemic.\r\nConstruction of the sprawling 2.4 mil… [+1226 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Weizhen Tan",
+    "title": "China's Weibo shares tumble 9% after regulator slaps fine on social media giant's operator - CNBC",
+    "description": "Shares of Chinese social networking giant Weibo tumbled more than 9% on Tuesday, as its operator was fined three million yuan ($471,151) by regulators.",
+    "url": "https://www.cnbc.com/2021/12/14/chinas-regulator-fines-weibo-operator-sending-shares-tumbling.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/105133900-GettyImages-486032381.jpg?v=1639457123",
+    "publishedAt": "2021-12-14T05:16:04Z",
+    "content": "Hong Kong-listed shares of Chinese social networking giant Weibo tumbled more than 9% on Tuesday, as its operator was fined three million yuan ($471,151) by regulators.\r\nThe Cyberspace Administration… [+1304 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Lora Kolodny",
+    "title": "Elon Musk sells another $906.5 million worth of Tesla shares - CNBC",
+    "description": "Elon Musk sells another $906.5 million worth of Tesla shares, exercises options to buy more than 2 million shares.",
+    "url": "https://www.cnbc.com/2021/12/14/elon-musk-sells-another-906point5-million-worth-of-tesla-shares.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106968542-1635774703746-gettyimages-1270402004-maja6398_20200903125258956.jpeg?v=1635774908",
+    "publishedAt": "2021-12-14T04:20:00Z",
+    "content": "SpaceX and Tesla CEO Elon Musk sold another 934,091 shares of his electric car company, which are worth around $906.49 million, according to a pair of financial filings with the Securities and Exchan… [+2681 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "WPVI-TV"
+    },
+    "author": "6abc Digital Staff, Annie McCormick, Dann Cuellar",
+    "title": "COVID-19 in Philly: Philadelphia rolling out vaccination requirements for food establishments - WPVI-TV",
+    "description": "Philadelphia officials announced Monday that proof of a COVID-19 vaccine will soon be required to eat inside a restaurant or food establishment.",
+    "url": "https://6abc.com/covid-19-vaccination-philadelphia-restaurants-indoor-dining-philly-vaccine-mandate/11334019/",
+    "urlToImage": "https://cdn.abcotvs.com/dip/images/11336735_vax-mandate.jpg?w=1600",
+    "publishedAt": "2021-12-14T03:37:04Z",
+    "content": "PHILADELPHIA (WPVI) -- Philadelphia officials announced Monday that proof of a COVID-19 vaccine will soon be required to eat inside a restaurant or food establishment, saying the mandate is meant to … [+4120 chars]"
+    },
+    {
+    "source": {
+    "id": "bloomberg",
+    "name": "Bloomberg"
+    },
+    "author": null,
+    "title": "China Developer Selloff Deepens as Shimao Deal Raises 'Red Flag' - Bloomberg",
+    "description": null,
+    "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=c8f4f677-5caa-11ec-90f9-7a5552447668&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0xMi0xNC9jaGluYS1kZXZlbG9wZXJzLXNpbmstYXMtc2hpbWFvLWRlYWwtc3Rva2VzLWdvdmVybmFuY2UtY29uY2Vybg==",
+    "urlToImage": null,
+    "publishedAt": "2021-12-14T03:18:00Z",
+    "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Breck Dumas",
+    "title": "Starbucks workers at two Boston locations file for union elections - Fox Business",
+    "description": "Two Boston Starbucks locations on Monday filed to hold a vote on unionization, days after the first Starbucks location voted to unionize in New York",
+    "url": "https://www.foxbusiness.com/economy/starbucks-workers-at-two-boston-locations-file-for-union-elections",
+    "urlToImage": "https://a57.foxnews.com/manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/854081161001/88eee0fc-f633-4272-a2de-42a11e24d171/10s/0/0/master.m3u8?fastly_token=NjJhOTM1YjlfNjM5NjBlNDg1MThjY2IzMzEyMjhlNjA4M2ZiOWQ1MjE4NmE4Zjk4NDc3MGNlNzVjM2VmNTYyYzcyNWEwMmE0YQ%3D%3D?ve=1&tl=1",
+    "publishedAt": "2021-12-14T03:12:16Z",
+    "content": "Two Starbucks locations in Boston on Monday petitioned the National Labor Relations Board to hold elections to unionize, just days after a Buffalo, New York, Starbucks store became the first of the c… [+2806 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "HYPEBEAST"
+    },
+    "author": "Rosie Perper",
+    "title": "A $300000 USD Bored Ape NFT Accidentally Sold for $3000 USD Because of a Typo - HYPEBEAST",
+    "description": "The seller instantly saw the error but it was too late.",
+    "url": "https://hypebeast.com/2021/12/bored-ape-yacht-club-nft-typo-sold-3000-mistake-listing",
+    "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F12%2Fbored-ape-yacht-club-nft-typo-sold-3000-mistake-listing-tw.jpg?w=960&cbr=1&q=90&fit=max",
+    "publishedAt": "2021-12-14T02:22:12Z",
+    "content": "A Bored Ape Yacht ClubNFT valued at 75 Ether — or about $300,000 USD — accidentally sold for .75 Ether — about 3,000 USD — because of a typo.\r\nBored Ape #3547, a cyborg ape with x’s for eyes, was lis… [+1024 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "Erik Pedersen",
+    "title": "MGM Resorts Selling The Mirage In Las Vegas For $1.08 Billion - Deadline",
+    "description": "A volcanic change is coming to the Strip. MGM Resorts International said Monday that it will sell the operations of the Mirage hotel and casino in Las Vegas — home of the 90-foot erupting volcano — to Hard Rock International for roughly $1.08 billion. The all…",
+    "url": "https://deadline.com/2021/12/mgm-resorts-selling-the-mirage-in-las-vegas-for-1-08-billion-1234890609/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2021/12/Mirage-Las-Vegas.jpg?w=1000",
+    "publishedAt": "2021-12-14T02:20:00Z",
+    "content": "A volcanic change is coming to the Strip.\r\nMGM Resorts International said Monday that it will sell the operations of the Mirage hotel and casino in Las Vegas — home of the 90-foot erupting volcano — … [+1093 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Los Angeles Times"
+    },
+    "author": "Sammy Roth",
+    "title": "California proposes changes to rooftop solar panel incentives - Los Angeles Times",
+    "description": "Solar companies were furious, saying the changes will harm the market for clean energy.",
+    "url": "https://www.latimes.com/business/story/2021-12-13/california-proposes-big-changes-to-rooftop-solar-incentives",
+    "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/41184a7/2147483647/strip/true/crop/6599x3464+0+467/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6f%2Fe0%2F39da364f432e9b964195287504f2%2Fla-photos-1staff-793886-enviro-rooftop-solar-fight-gxc-0239.JPG",
+    "publishedAt": "2021-12-14T01:58:23Z",
+    "content": "California officials want to slash payments for rooftop solar power, saying the changes would help the state achieve 100% clean energy while keeping the lights on, preventing electricity rates from r… [+15076 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Reuters",
+    "title": "Dollar near one-week high on expectation of hawkish Fed - CNBC",
+    "description": "The dollar traded near a one-week high versus a basket of major rivals on Tuesday, supported by expectations of a hawkish Federal Reserve meeting this week.",
+    "url": "https://www.cnbc.com/2021/12/14/forex-markets-hawkish-federal-reserve-tapering-omicron.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106937718-1630894888898-gettyimages-1230663792-IGOR6717.jpeg?v=1639445269",
+    "publishedAt": "2021-12-14T01:58:00Z",
+    "content": "The U.S. dollar stood just off a one-week high on Tuesday versus a basket of major currencies on expectations of a hawkish Federal Reserve meeting and uncertainty about the Omicron coronavirus varian… [+2923 chars]"
+    }
+    ]
+    }
